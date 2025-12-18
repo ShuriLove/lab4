@@ -4,5 +4,4 @@
 <img width="872" height="80" alt="image" src="https://github.com/user-attachments/assets/602dd1ca-cf67-4440-9c6c-36967752efbd" />
 
 - Запуск main.py
-- 
   
